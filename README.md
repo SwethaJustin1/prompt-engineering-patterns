@@ -2,7 +2,7 @@
 
 A structured library of production-tested prompt templates for AI strategy, governance, and communications work.
 
-Built and maintained by Sogibogi — AI Strategy & Responsible AI practitioner based in Pune, India.
+Built and maintained by Swetha Justin
 
 ---
 
